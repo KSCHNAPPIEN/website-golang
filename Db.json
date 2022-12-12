@@ -1,0 +1,7 @@
+{
+  "user": "Root",
+  "password": "Dolfin20421@",
+  "host": "127.0.0.1:3306",
+  "port": 5432,
+  "dbname": "mydb"
+}
